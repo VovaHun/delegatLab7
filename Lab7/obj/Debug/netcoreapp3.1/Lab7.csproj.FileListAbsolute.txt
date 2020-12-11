@@ -1,0 +1,13 @@
+D:\лабы\магистратура\Параллельные вычисления\Лабы\Lab7\Lab7\bin\Debug\netcoreapp3.1\Lab7.exe
+D:\лабы\магистратура\Параллельные вычисления\Лабы\Lab7\Lab7\bin\Debug\netcoreapp3.1\Lab7.deps.json
+D:\лабы\магистратура\Параллельные вычисления\Лабы\Lab7\Lab7\bin\Debug\netcoreapp3.1\Lab7.runtimeconfig.json
+D:\лабы\магистратура\Параллельные вычисления\Лабы\Lab7\Lab7\bin\Debug\netcoreapp3.1\Lab7.runtimeconfig.dev.json
+D:\лабы\магистратура\Параллельные вычисления\Лабы\Lab7\Lab7\bin\Debug\netcoreapp3.1\Lab7.dll
+D:\лабы\магистратура\Параллельные вычисления\Лабы\Lab7\Lab7\bin\Debug\netcoreapp3.1\Lab7.pdb
+D:\лабы\магистратура\Параллельные вычисления\Лабы\Lab7\Lab7\obj\Debug\netcoreapp3.1\Lab7.csprojAssemblyReference.cache
+D:\лабы\магистратура\Параллельные вычисления\Лабы\Lab7\Lab7\obj\Debug\netcoreapp3.1\Lab7.AssemblyInfoInputs.cache
+D:\лабы\магистратура\Параллельные вычисления\Лабы\Lab7\Lab7\obj\Debug\netcoreapp3.1\Lab7.AssemblyInfo.cs
+D:\лабы\магистратура\Параллельные вычисления\Лабы\Lab7\Lab7\obj\Debug\netcoreapp3.1\Lab7.csproj.CoreCompileInputs.cache
+D:\лабы\магистратура\Параллельные вычисления\Лабы\Lab7\Lab7\obj\Debug\netcoreapp3.1\Lab7.dll
+D:\лабы\магистратура\Параллельные вычисления\Лабы\Lab7\Lab7\obj\Debug\netcoreapp3.1\Lab7.pdb
+D:\лабы\магистратура\Параллельные вычисления\Лабы\Lab7\Lab7\obj\Debug\netcoreapp3.1\Lab7.genruntimeconfig.cache
